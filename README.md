@@ -22,7 +22,7 @@ This project is a demonstration of using React Router v07 to create a single-pag
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/AhmedQeshta/React-Router-v07-Project
 cd react-router-v07
 npm install
 ```
